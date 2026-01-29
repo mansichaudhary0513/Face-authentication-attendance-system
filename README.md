@@ -27,3 +27,31 @@ The Face Authentication Attendance System is a Python-based application that aut
 
 ## Installation
 1. Clone the repository:
+git clone https://github.com/yourusername/face-authentication-attendance-system.git
+
+2. Navigate to the project folder:
+cd face-authentication-attendance-system
+3. Install required libraries:
+
+pip install -r requirements.txt
+
+
+## Usage
+1. Add user images to the dataset folder.
+2. Run the main Python file:
+python main.py
+
+3. The webcam will open and start detecting faces.
+4. Attendance will be recorded automatically.
+
+## Advantages
+- Saves time
+- Contactless attendance
+- Prevents fake attendance
+- Accurate and efficient
+
+## Future Enhancements
+- Cloud database integration
+- Mobile app connectivity
+- Multi-camera support
+- Admin dashboard for analytics
